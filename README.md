@@ -1,1 +1,1 @@
-This repository consists some basic projects/codes of python regarding machine learning with datasets (not all)
+This repository consists some basic projects/codes of python regarding machine learning.
